@@ -18,11 +18,21 @@ aside {
 article {
     flex:2;
     overflow-y: auto;
+    border-radius: 20px;
 }
 
-header{
-    background: #000;
-    color:aliceblue;
-    
+article h1, h2, h3, h4, p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
 }
+
+article p{
+    color:rgb(0, 0, 2);
+    background-color: rgb(243, 245, 245);
+    border-radius: 10px; 
+    padding: 20px;
+
+}
+
+
 
