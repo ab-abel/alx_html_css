@@ -381,7 +381,7 @@
 
   /* Section SERVICES ============================= */
 
-  .section .row{
+  .section + .section-services .row{
     flex-wrap: wrap;
   }
   
