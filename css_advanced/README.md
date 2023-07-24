@@ -29,3 +29,5 @@ At the end of this project you should be able to.
 - How to compute CSS Specificity Value
 - What are Box properties in CSS
 - How does the browser load a webpage
+
+![SMile School landing page](/css_advanced/images/smileschool.jpg) "Smile School")

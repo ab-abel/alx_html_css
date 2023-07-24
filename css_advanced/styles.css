@@ -121,6 +121,11 @@ a:hover {
     font-size: var(--font-size-xxl-large);
 }
 
+.section-header h2 {
+    font-size: var(--font-size-medium);
+    text-align: center;
+}
+
 .section-header p {
     padding-bottom:5rem;
     font-size: var(--font-size-small);
