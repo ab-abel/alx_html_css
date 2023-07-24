@@ -15,3 +15,5 @@ This is a static HTML web page from ALX task 1. the goal of it is to undrestand 
   - html_advanced
     - index.html
   - Readme.md
+
+![Temp file](temp.jpg "HTMl advance title")
